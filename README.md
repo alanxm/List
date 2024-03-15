@@ -137,10 +137,18 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [剪映](https://www.capcut.cn): 语言转文本
 - [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用[六音音源](https://www.sixyin.com/8498.html): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
 - Net: 所有代理相关
+<<<<<<< HEAD
   - [V2rayN](https://github.com/2dust/v2rayN/releases)
   - [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev)
   - [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
   - [Windterm](https://github.com/kingToolbox/WindTerm)
+=======
+	- [V2rayN](https://github.com/2dust/v2rayN/releases)
+	- [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev)
+	- [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+	- [Windterm](https://github.com/kingToolbox/WindTerm)
+- [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
+>>>>>>> 9ea08b7f44a8d27710852ff7a0b81b5f5bc95d99
 - [OBS](https://github.com/obsproject/obs-studio)
 - [Obsidian](https://obsidian.md)
 - [OfficeToolPlus](https://github.com/YerongAI/Office-Tool): Office的第三方激活工具, B站[教程](https://www.bilibili.com/video/BV1RH4y1B7GM/?spm_id_from=333.337.search-card.all.click&vd_source=fc841ae46284f484686eebead19c077f)
