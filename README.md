@@ -1,4 +1,4 @@
-# Awesome Privacy
+# List
 <p align="center"><img width="500" src="misc/logo.png"> </img></p>
 <p align="center">
 	<img src="https://awesome.re/badge.svg" alt="Awesome">
