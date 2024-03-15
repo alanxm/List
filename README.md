@@ -177,7 +177,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Analytics
 
-`<img width="16" src="misc/forbidden.png">` `</img>` Avoid any analytics service that comes from Google, Facebook, Microsoft or any private service. These kind of analytics hurt user privacy.
+Avoid any analytics service that comes from Google, Facebook, Microsoft or any private service. These kind of analytics hurt user privacy.
 
 `<img width="16" src="misc/check.png">` `</img>`  **Instead use**
 
