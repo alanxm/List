@@ -166,12 +166,8 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 <img width="16" src="misc/check.png"> </img> 手机软件
 - [F-Droid](https://f-droid.org): 免费开源的安卓下载地址
-- [Aurora Store](https://getaegis.app/): 无需Google框架就可下载GooglePlayer的软件商店, 可在上面F-Droid下载
-- 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, Xianyu), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库])
-- [Owky](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
-- <img width="16" src="misc/android.png"> [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
-- [RaivoOTP](https://github.com/raivo-otp/) - A native, lightweight and secure one-time-password (OTP) solution for **iOS** users.
-- <img width="16" src="misc/android.png"> [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) - Two-Factor Authentication (2FA) client for Android + Wear OS.
+- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 无需Google框架就可下载GooglePlayer的软件商店, 可在上面F-Droid下载
+- 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库])
 
 ## Analytics
 <img width="16" src="misc/forbidden.png"> </img> Avoid any analytics service that comes from Google, Facebook, Microsoft or any private service. These kind of analytics hurt user privacy.
