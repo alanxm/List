@@ -161,7 +161,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 	- [FastStone](https://www.faststone.org/FSViewerDetail.htm)
 	- [IrfanView](https://www.irfanview.com/main_what_is_engl.htm)
 	- [Imagine](https://www.nyam.pe.kr/dev/imagine)
-- [图片视频画质增强](https://github.com/xinntao/Real-ESRGAN)
+- [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): 图片视频画质增强
 
 <img width="16" src="misc/check.png"> </img> Instead use
 - <img width="16" src="misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
