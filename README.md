@@ -232,7 +232,7 @@ Third-party dialers found on the play store. They may contain ads/trackers and m
 
 Preinstalled file managers and third-party file manager apps found on the play store. They may contain ads/trackers and may ask for unnecessary permissions.
 
-`<img width="16" src="misc/check.png">` `</img>`  **Instead use**
+**Instead use**
 
 - [Amaze File Manager](https://github.com/TeamAmaze/AmazeFileManager) - Simple and attractive Material Design file manager for Android.
 - [Material Files](https://github.com/zhanghai/MaterialFiles) - An open source Material Design file manager, for Android 5.0+.
