@@ -120,7 +120,19 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [aDrive](https://www.alipan.com/)
 	- [Alist](https://github.com/alist-org/alist): 第三方云盘客户端
 	- [XBYDriver](https://github.com/gaozhangmin/aliyunpan): 阿里云专用第三方客户端
-- Google Authenticator [![](https://shields.tosdr.org/en_217.svg)](https://tosdr.org/en/service/217)
+- [Baidu](https://pan.baidu.com): 百度网盘
+- [123pan](https://www.123pan.com): 不限速, 有2T
+- [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown): Bilibili第三方下载
+- [BypassPayWalls](https://github.com/iamadamdev/bypass-paywalls-chrome): 跳过新闻网站付费墙的chrome插件
+- Diskinfo: 硬盘检测
+	- [CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo): 带二次元流行的硬盘检测工具
+	- [CrystalDiskMark](https://crystalmark.info): 带二次元流行的硬盘检测工具
+	- [HDTune](https://www.ghxi.com/hdtune.html): 老牌硬盘检测软件, 可检测机械硬盘
+- [Eudic](https://dict.eudic.net): 老牌词典, 手机电脑都好用
+- [IDM](https://github.com/WindowsAddict/IDM-Activation-Script): IDM官方版本的激活脚本
+- [剪映](https://www.capcut.cn): 语言转文本
+- [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用
+	[六音音源](https://www.sixyin.com/8498.html): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
 
 <img width="16" src="misc/check.png"> </img> Instead use
 - <img width="16" src="misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
