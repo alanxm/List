@@ -19,7 +19,7 @@ Anonymity, Privacy, and Security are often used interchangeably, but they actual
 The primary focus of this list is to provide alternatives that prioritize privacy. These alternatives give you control over your data and do not collect or sell it.
 
 ## Contents
-- [2FA](#2fa)
+- [PC软件](#PC软件)
 - [Analytics](#analytics)
 - [Android](#android)
   - [Android App Store](#android-app-store)
@@ -115,7 +115,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
     - [Browser Sync](#browser-sync)
     - [WebView](#webview)
 
-## 2FA
+## PC软件
 <img width="16" src="misc/forbidden.png"> </img> Avoid using apps that won't let you export your keys **easily**.
 - Authy
 - Google Authenticator [![](https://shields.tosdr.org/en_217.svg)](https://tosdr.org/en/service/217)
