@@ -164,9 +164,10 @@ The primary focus of this list is to provide alternatives that prioritize privac
 	- [ImageGlass](https://github.com/d2phap/ImageGlass)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): 图片视频画质增强
 
-<img width="16" src="misc/check.png"> </img> Instead use
-- <img width="16" src="misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
-- [ente Auth](https://ente.io/auth) - A free, cross platform, end-to-end encrypted and open source app for managing your 2-step verification tokens. From the makers of [ente Photos](https://ente.io), and uses the same battle tested infrastructure. Needs an ente.io account.
+<img width="16" src="misc/check.png"> </img> 手机软件
+- [F-Droid](https://f-droid.org): 免费开源的安卓下载地址
+- [Aurora Store](https://getaegis.app/): 无需Google框架就可下载GooglePlayer的软件商店, 可在上面F-Droid下载
+- 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, Xianyu), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库])
 - [Owky](https://github.com/charlietango/owky) - Free and Open Source Two-Factor Authenticator for IOS users.
 - <img width="16" src="misc/android.png"> [FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator.
 - [RaivoOTP](https://github.com/raivo-otp/) - A native, lightweight and secure one-time-password (OTP) solution for **iOS** users.
