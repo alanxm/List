@@ -116,8 +116,10 @@ The primary focus of this list is to provide alternatives that prioritize privac
     - [WebView](#webview)
 
 ## PC软件
-<img width="16" src="misc/forbidden.png"> </img> Avoid using apps that won't let you export your keys **easily**.
-- Authy
+<img width="16" src="misc/forbidden.png"> </img> 常用PC软件
+- [aDrive](https://www.alipan.com/)
+	- [Alist](https://github.com/alist-org/alist): 第三方云盘客户端
+	- [XBYDriver](https://github.com/gaozhangmin/aliyunpan): 阿里云专用第三方客户端
 - Google Authenticator [![](https://shields.tosdr.org/en_217.svg)](https://tosdr.org/en/service/217)
 
 <img width="16" src="misc/check.png"> </img> Instead use
