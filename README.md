@@ -131,8 +131,37 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Eudic](https://dict.eudic.net): 老牌词典, 手机电脑都好用
 - [IDM](https://github.com/WindowsAddict/IDM-Activation-Script): IDM官方版本的激活脚本
 - [剪映](https://www.capcut.cn): 语言转文本
-- [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用
-	[六音音源](https://www.sixyin.com/8498.html): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
+- [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用[六音音源](https://www.sixyin.com/8498.html): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
+- Net: 所有代理相关
+	- [V2rayN](https://github.com/2dust/v2rayN/releases)
+	- [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev)
+	- [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+	- [Windterm](https://github.com/kingToolbox/WindTerm)
+- [OBS](https://github.com/obsproject/obs-studio)
+- [Obsidian](https://obsidian.md)
+- [OfficeToolPlus](https://github.com/YerongAI/Office-Tool): Office的第三方激活工具, B站[教程](https://www.bilibili.com/video/BV1RH4y1B7GM/?spm_id_from=333.337.search-card.all.click&vd_source=fc841ae46284f484686eebead19c077f)
+	- [KMS](https://www.coolhub.top/tech-articles/kms_list.html): OfficeToolPlus提供的用于激活Win11和Office的KMS列表
+- [Pixpin](https://txc.qq.com/products/614512): 截图软件
+- [Potplayer](https://potplayer.daum.net): B站设置[教程](https://www.bilibili.com/video/BV1cN411e7fQ/?spm_id_from=333.337.search-card.all.click&vd_source=fc841ae46284f484686eebead19c077f), 阿里云盘有设置文件
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent)
+- [ResDownLoader](https://github.com/putyy/res-downloader): 网页资源嗅探下载
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif): 图片到GIF
+- [SrtEdit](https://blog.csdn.net/ywg712/article/details/135095484?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-2-135095484-blog-134265239.235%5Ev43%5Epc_blog_bottom_relevance_base9&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EYuanLiJiHua%7EPosition-2-135095484-blog-134265239.235%5Ev43%5Epc_blog_bottom_relevance_base9&utm_relevant_index=5): 百度网盘中有此文件
+- [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit): 字幕编辑软件
+- [Telegram](https://telegram.org)
+- [Tim](https://tim.qq.com/)
+- Uninstaller: 卸载工具
+	- [BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+	- [Geek](geekuninstaller.com)
+- [uTools](https://www.u.tools): 效率工具
+- VSCode: Python, 记事本, MD, DrawIO
+- WeChat
+- 图片工具:
+	- [XnViewMP](https://www.xnview.com/en/xnviewmp)
+	- [FastStone](https://www.faststone.org/FSViewerDetail.htm)
+	- [IrfanView](https://www.irfanview.com/main_what_is_engl.htm)
+	- [Imagine](https://www.nyam.pe.kr/dev/imagine)
+- [图片视频画质增强](https://github.com/xinntao/Real-ESRGAN)
 
 <img width="16" src="misc/check.png"> </img> Instead use
 - <img width="16" src="misc/android.png"> [Aegis](https://getaegis.app/) - A free, secure and open source app for Android to manage your 2-step verification tokens. Supports variety of imports from other apps (Google Authenticator, Authy etc.), vault encryption and exporting keys (plaintext or encrypted).
