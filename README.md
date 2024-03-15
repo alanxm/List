@@ -152,7 +152,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Tim](https://tim.qq.com/)
 - Uninstaller: 卸载工具
 	- [BCUninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)
-	- [Geek](geekuninstaller.com)
+	- [Geek](https://geekuninstaller.com/)
 - [uTools](https://www.u.tools): 效率工具
 - VSCode: Python, 记事本, MD, DrawIO
 - WeChat
