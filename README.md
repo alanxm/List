@@ -162,7 +162,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - VSCode: Python, 记事本, MD, DrawIO
 - WeChat
 - 图片工具:
-  - [XnViewMP](https://www.xnview.com/en/xnviewmp): 推荐实用
+  - [XnViewMP](https://www.xnview.com/en/xnviewmp): 推荐使用
   - [FastStone](https://www.faststone.org/FSViewerDetail.htm)
   - [IrfanView](https://www.irfanview.com/main_what_is_engl.htm)
   - [Imagine](https://www.nyam.pe.kr/dev/imagine)
@@ -172,7 +172,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 手机软件
 
 - [F-Droid](https://f-droid.org): 免费开源的安卓下载地址
-- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 无需Google框架就可下载GooglePlayer的软件商店, 可在上面F-Droid下载
+- [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 谷歌商店平替, 可在上面F-Droid里下载
 - 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库])
 
 ## Analytics
