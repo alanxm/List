@@ -21,7 +21,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Contents
 
-- [📲常用软件](#常用软件)
+- [📱常用软件](#常用软件)
 - [🔠Fonts](#Fonts)
 - [Android](#android)
   - [Android App Store](#android-app-store)
@@ -119,7 +119,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## 常用软件
 
-📲**常用PC软件**
+**📱常用PC软件**
 
 - [aDrive](https://www.alipan.com/)
   - [Alist](https://github.com/alist-org/alist): 第三方云盘客户端
