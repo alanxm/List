@@ -20,9 +20,9 @@ Anonymity, Privacy, and Security are often used interchangeably, but they actual
 The primary focus of this list is to provide alternatives that prioritize privacy. These alternatives give you control over your data and do not collect or sell it.
 
 - [📱常用软件](#常用软件)
-
 - [🔠Fonts](#Fonts)
 - [Android](#android)
+
   - [Android App Store](#android-app-store)
   - [Android Dialer](#android-dialer)
   - [Android File Manager](#android-file-manager)
@@ -30,11 +30,13 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - [Android Keyboard](#android-keyboard)
   - [Android Launcher](#android-launcher)
 - [Artificial Intelligence](#artificial-intelligence)
+
   - [ChatGPT](#chatgpt)
   - [Copilot](#copilot)
   - [ElevenLabs Text To Speech](#elevenlabs-text-to-speech)
   - [Midjourney (image generation)](#midjourney)
 - [Bookmarking](#bookmarking)
+
   - [Book and web annotations](#book-and-web-annotationshighlights-management)
 - [Captchas](#captchas)
 - [Commenting Engines (disqus)](#commenting-engines)
@@ -45,12 +47,14 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Dating Apps](#dating-apps)
 - [Design Tools](#design-tools)
 - [Developer Tools](#developer-tools)
+
   - [IDEs](#ides)
 - [Domain Registrar](#domain-registrar)
 - [Download Manager](#download-manager)
 - [Encryption](#encryption)
 - [File Management and Sharing](#file-management-and-sharing)
 - [Fitness and Health](#fitness-and-health)
+
   - [Fitness trackers](#fitness-trackers)
   - [Food](#food)
   - [Menstrual cycle trackers](#menstrual-cycle-trackers)
@@ -58,6 +62,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Fonts](#fonts)
 - [Forms](#forms)
 - [Games](#games)
+
   - [Mario Kart](#mario-kart)
   - [Minecraft](#minecraft)
   - [Pokémon](#pokemon)
@@ -70,6 +75,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Mail Services](#mail-services)
 - [Maps and Navigation](#maps-and-navigation)
 - [Media Streaming Platforms](#media-streaming-platforms)
+
   - [Video and Audio](#video-and-audio)
   - [Audio](#audio)
   - [Podcasts](#podcasts)
@@ -78,6 +84,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Office](#office)
 - [Online Phone Providers (SMS)](#online-phone-providers)
 - [Operating Systems](#operating-systems)
+
   - [Android](#android)
   - [PC / MacOS](#pc--macos)
   - [Smart TV](#smart-tv)
@@ -91,6 +98,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Remote Access and Control](#remote-access-and-control)
 - [Search Engines](#search-engines)
 - [Social Networks and Platforms](#social-networks-and-platforms)
+
   - [Blogging platforms (Medium / Blogger)](#blogging-platforms-medium)
   - [Imgur](#imgur)
   - [Instagram](#instagram)
@@ -112,6 +120,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Video Editing](#video-editing)
 - [Virtual Private Networks (VPNs)](#VPNs)
 - [Web Browser](#web-browser)
+
   - [Browser Addons](#browser-addons)
   - [Browser Sync](#browser-sync)
   - [WebView](#webview)
