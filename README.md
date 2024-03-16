@@ -21,8 +21,8 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Contents
 
-- [常用软件](#常用软件)
-- [Fonts](#Fonts)
+- [📲常用软件](#常用软件)
+- [🔠Fonts](#Fonts)
 - [Android](#android)
   - [Android App Store](#android-app-store)
   - [Android Dialer](#android-dialer)
@@ -119,7 +119,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## 常用软件
 
-常用PC软件
+📲**常用PC软件**
 
 - [aDrive](https://www.alipan.com/)
   - [Alist](https://github.com/alist-org/alist): 第三方云盘客户端
@@ -177,7 +177,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Fonts
 
-**所有开源免费可商用字体, 遵循OFL1.1开源协议**
+**🔠所有开源免费可商用字体, 遵循OFL1.1开源协议**
 
 - [阿里普惠体](https://www.alibabafonts.com/#/font) - 中繁日韩泰越拉丁共172字体
 - [思源黑体](https://github.com/adobe-fonts/source-han-sans) - adobe和google共同开发, 中繁日韩拉丁
