@@ -181,7 +181,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 - [F-Droid](https://f-droid.org): 免费开源的安卓下载地址
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 谷歌商店平替, 可在上面F-Droid里下载
-- 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库])
+- 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库, 词库让软件变卡], [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android))
 
 ## Fonts
 
