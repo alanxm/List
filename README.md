@@ -21,8 +21,8 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Contents
 
-- [PC软件](#PC软件)
-- [Analytics](#analytics)
+- [常用软件](#常用软件)
+- [Fonts](#Fonts)
 - [Android](#android)
   - [Android App Store](#android-app-store)
   - [Android Dialer](#android-dialer)
@@ -117,7 +117,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - [Browser Sync](#browser-sync)
   - [WebView](#webview)
 
-## PC软件
+## 常用软件
 
 常用PC软件
 
@@ -175,23 +175,20 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 谷歌商店平替, 可在上面F-Droid里下载
 - 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库])
 
-## Analytics
+## Fonts
 
-Avoid any analytics service that comes from Google, Facebook, Microsoft or any private service. These kind of analytics hurt user privacy.
+**所有开源免费可商用字体, 遵循OFL1.1开源协议**
 
-**Instead use**
-
-- [Ackee](https://ackee.electerious.com/) - Self-hosted website analytics.
-- [Aptabase](https://aptabase.com) - Open-source, privacy-first and simple analytics for mobile and desktop apps.
-- [Cabin](https://withcabin.com) - Privacy-first, carbon conscious web analytics.
-- [GoatCounter](https://www.goatcounter.com/) - Privacy aware, lightweight and open-source analytics platform.
-- [Matomo](https://matomo.org/) - Google Analytics alternative that protects your data and your customers' privacy.
-- [Nullitics](https://nullitics.com/) - Zero-effort open-source cheap analytics.
-- [Pirsch](https://pirsch.io/) - Pirsch is a simple, privacy-friendly, open-source alternative to Google Analytics — lightweight, cookie-free and easily integrated into any website or backend.
-- [Plausible](https://plausible.io/) - Simple and privacy-friendly alternative to Google Analytics.
-- [Shynet](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-- [Swetrix](https://swetrix.com) - Privacy-focused, fully cookieless and opensource (and selfhostable) web-analytics service.
-- [Umami](https://umami.is/) - A simple, fast, website analytics alternative to Google Analytics.
+- [阿里普惠体](https://www.alibabafonts.com/#/font) - 中繁日韩泰越拉丁共172字体
+- [思源黑体](https://github.com/adobe-fonts/source-han-sans) - adobe和google共同开发, 中繁日韩拉丁
+- [得意黑](https://github.com/atelier-anchor/smiley-sans) - 中日拉丁
+- [思源宋体](https://github.com/adobe-fonts/source-han-serif) - 中繁日韩拉丁
+- [寒蝉宋体](https://github.com/Warren2060/ChillJinshuSong) - 基于思源宋体
+- [寒蝉正楷](https://github.com/Warren2060/Chillkai) - 中繁日韩拉丁
+- [寒蝉龙藏春秋](https://github.com/Warren2060/ChillCalligraphy) - 类似书法风格
+- [寒蝉全圆半圆](https://github.com/Warren2060/ChillRound) - 圆体字
+- [小米字体](https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854&app_version=dev.20051&ref=MIUI13) - 黑体风格
+- [谷歌NotoFonts](https://fonts.google.com/noto) - 谷歌字体项目
 
 ## Android
 
