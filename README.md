@@ -15,9 +15,9 @@
 
 ### ⚠️ [Important note](#privacy-vs-security-vs-anonimity)
 
-Anonymity, Privacy, and Security are often used interchangeably, but they actually represent distinct concepts. It is important to understand the differences between them. [Read more in this section below](#privacy-vs-security-vs-anonimity).
+Anonymity, Privacy, and Security are often used interchangeably
 
-The primary focus of this list is to provide alternatives that prioritize privacy. These alternatives give you control over your data and do not collect or sell it.
+The primary focus of this list is to provide alternatives that prioritize privacy
 
 - [📱常用软件](#常用软件)
 - [🔠Fonts](#Fonts)
