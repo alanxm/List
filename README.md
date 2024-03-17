@@ -174,7 +174,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - [FastStone](https://www.faststone.org/FSViewerDetail.htm)
   - [IrfanView](https://www.irfanview.com/main_what_is_engl.htm)
   - [Imagine](https://www.nyam.pe.kr/dev/imagine)
-  - [ImageGlass](https://github.com/d2phap/ImageGlass)
+  - [ImageGlass](https://github.com/d2phap/ImageGlass "打开速度慢")
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): 图片视频画质增强
 
 **手机软件**
