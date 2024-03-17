@@ -177,7 +177,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - [ImageGlass](https://github.com/d2phap/ImageGlass)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): 图片视频画质增强
 
-手机软件
+**手机软件**
 
 - [F-Droid](https://f-droid.org): 免费开源的安卓下载地址
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 谷歌商店平替, 可在上面F-Droid里下载
