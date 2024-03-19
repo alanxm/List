@@ -1,8 +1,8 @@
 <p align='center'><img width='500' src='../Pictures/ComputerTips/VSCode-图1.png'> </img></p>
 
 <p align="center">
-	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/ABOUT.md"> 01 VSCode连接Github </a> | 
-	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/Contributing.md"> 02 ??? </a> | 
+	<a href="#01 VSCode连接Github"> 01 VSCode连接Github </a> | 
+	<a href="#02 标题2"> 02 ??? </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/QUOTES.md"> 03 ??? </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/discussions"> 04 ??? </a>
 </p>
@@ -61,3 +61,5 @@
 **最后测试是否成功**: `ssh -T git@github.com`, 推荐以后走SSH拉取, Github上Clone时选择SSH地址:
 
 ![SSH-Clone](../Pictures/ComputerTips/VSCode-图2.png)
+
+## 02 标题2
