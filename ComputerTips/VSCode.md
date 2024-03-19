@@ -3,8 +3,8 @@
 <p align="center">
 	<a href="#01VSCode连接Github"> 01VSCode连接Github </a> | 
 	<a href="#02标题2"> 02标题2 </a> | 
-	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/QUOTES.md"> 03 ??? </a> | 
-	<a href="https://github.com/pluja/awesome-privacy/discussions"> 04 ??? </a>
+	<a href="#03标题3"> 03标题3 </a> | 
+	<a href="#04标题4"> 04标题4 </a>
 </p>
 
 ## 01VSCode连接Github
@@ -63,3 +63,7 @@
 ![SSH-Clone](../Pictures/ComputerTips/VSCode-图2.png)
 
 ## 02标题2
+
+## 03标题3
+
+## 04标题4
