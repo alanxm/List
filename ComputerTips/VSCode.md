@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="#01 VSCode连接Github"> 01 VSCode连接Github </a> | 
-	<a href="#02 标题2"> 02 ??? </a> | 
+	<a href="#02 标题2"> 02 标题2 </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/QUOTES.md"> 03 ??? </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/discussions"> 04 ??? </a>
 </p>
