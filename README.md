@@ -131,7 +131,9 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 - [aDrive](https://www.alipan.com/)
   - [Alist](https://github.com/alist-org/alist): 第三方云盘客户端
-  - [XBYDriver](https://github.com/gaozhangmin/aliyunpan): 阿里云专用第三方客户端
+  - [XBYDriver](https://github.com/gaozhangmin/aliyunpan): 小白羊阿里云第三方客户端
+  - [Raptor](https://github.com/InfpHub/Raptor): 阿里云第三方客户端
+  - [蜗牛云盘](https://snail8.cn/html/index.html): 阿里云盘第三方客户端
 - [Baidu](https://pan.baidu.com): 百度网盘
 - [123pan](https://www.123pan.com): 不限速, 有2T
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown): Bilibili第三方下载
