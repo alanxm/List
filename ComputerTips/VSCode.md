@@ -1,13 +1,13 @@
 <p align='center'><img width='500' src='../Pictures/ComputerTips/VSCode-图1.png'> </img></p>
 
 <p align="center">
-	<a href="#01 VSCode连接Github"> 01 VSCode连接Github </a> | 
-	<a href="#02 标题2"> 02 标题2 </a> | 
+	<a href="#01VSCode连接Github"> 01VSCode连接Github </a> | 
+	<a href="#02标题2"> 02标题2 </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/QUOTES.md"> 03 ??? </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/discussions"> 04 ??? </a>
 </p>
 
-## 01 VSCode连接Github
+## 01VSCode连接Github
 
 **参考知乎的文章**, [*设置代理解决github被墙*](https://zhuanlan.zhihu.com/p/481574024)
 
@@ -62,4 +62,4 @@
 
 ![SSH-Clone](../Pictures/ComputerTips/VSCode-图2.png)
 
-## 02 标题2
+## 02标题2
