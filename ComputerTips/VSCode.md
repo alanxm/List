@@ -1,6 +1,11 @@
 <p align='center'><img width='500' src='../Pictures/ComputerTips/VSCode-图1.png'> </img></p>
 
-<p align='center'>这里记录关于VSCode相关的问题</p>
+<p align="center">
+	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/ABOUT.md"> 01 VSCode连接Github </a> | 
+	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/Contributing.md"> 02 ??? </a> | 
+	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/QUOTES.md"> 03 ??? </a> | 
+	<a href="https://github.com/pluja/awesome-privacy/discussions"> 04 ??? </a>
+</p>
 
 ## 01 VSCode连接Github
 
