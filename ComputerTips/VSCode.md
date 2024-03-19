@@ -1,4 +1,4 @@
-<p align='center'><img width='500' src='../Pictures/vscode.png'> </img></p>
+<p align='center'><img width='500' src='../Pictures/VSCode-图1.png'> </img></p>
 
 <p align='center'>这里记录关于VSCode相关的问题</p>
 
