@@ -1,10 +1,10 @@
 <p align='center'><img width='500' src='../Pictures/ComputerTips/VSCode-图1.png'> </img></p>
 
 <p align="center">
-	<a href="#01VSCode连接Github"> 01VSCode连接Github </a> | 
-	<a href="#02标题2"> 02标题2 </a> | 
-	<a href="#03标题3"> 03标题3 </a> | 
-	<a href="#04标题4"> 04标题4 </a>
+	<a href="#01VSCode连接Github"> 01VSCode连接Github </a> || 
+	<a href="#02标题2"> 02标题2 </a> || 
+	<a href="#03标题3"> 03标题3 </a> || 
+	<a href="#04标题4"> 04标题4 </a> ||
 </p>
 
 ## 01VSCode连接Github
