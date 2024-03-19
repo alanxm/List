@@ -55,4 +55,4 @@
 
 **最后测试是否成功**: `ssh -T git@github.com`, 推荐以后走SSH拉取, Github上Clone时选择SSH地址:
 
-![SSH-Clone](../Pictures/Clone-SSH.png)
+![SSH-Clone](../Pictures/VSCode-图2.png)
