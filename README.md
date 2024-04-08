@@ -145,7 +145,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Eudic](https://dict.eudic.net): 老牌词典, 手机电脑都好用
 - [IDM](https://github.com/WindowsAddict/IDM-Activation-Script): IDM官方版本的激活脚本
 - [剪映](https://www.capcut.cn): 语言转文本
-- [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用[六音音源](https://www.sixyin.com/8498.html): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
+- [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用[六音音源](https://www.sixyin.com/8498.html),[梓澄音源,密码:lxmusic](https://wwp.lanzouq.com/b02fq9w8d): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
 - Net: 所有代理相关
   - [V2rayN](https://github.com/2dust/v2rayN/releases)
   - [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev)
