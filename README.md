@@ -202,21 +202,14 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Windows系统和Office
 
-**Win11系统下载地址**
+**Win11 LTSC系统下载地址**
 
-- [Ltsc简中镜像] - SHA: 2CB21649590C8CF770CD93556596DFF4FD800F24D267A9BE9D9CE0EE9E03F5AC
+- LTSC简中镜像 - SHA: 2CB21649590C8CF770CD93556596DFF4FD800F24D267A9BE9D9CE0EE9E03F5AC
   - 磁力链接: magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256
   - 直接下载: https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso
   - 官方英文版磁力: magnet:?xt=urn:btih:7352bd2db48c3381dffa783763dc75aa4a6f1cff&dn=en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso&xl=5144817664
 - [官方物联网英文版IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间
 - [官方KMS密钥](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) - 正版
-- [思源宋体](https://github.com/adobe-fonts/source-han-serif) - 中繁日韩拉丁
-- [寒蝉宋体](https://github.com/Warren2060/ChillJinshuSong) - 基于思源宋体
-- [寒蝉正楷](https://github.com/Warren2060/Chillkai) - 中繁日韩拉丁
-- [寒蝉龙藏春秋](https://github.com/Warren2060/ChillCalligraphy) - 类似书法风格
-- [寒蝉全圆半圆](https://github.com/Warren2060/ChillRound) - 圆体字
-- [小米字体](https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854&app_version=dev.20051&ref=MIUI13) - 黑体风格
-- [谷歌NotoFonts](https://fonts.google.com/noto) - 谷歌字体项目
 
 ## Android
 
