@@ -200,6 +200,21 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [小米字体](https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854&app_version=dev.20051&ref=MIUI13) - 黑体风格
 - [谷歌NotoFonts](https://fonts.google.com/noto) - 谷歌字体项目
 
+## Windows系统和Office
+
+**🔠所有开源免费可商用字体, 遵循OFL1.1开源协议**
+
+- [Win11Ltsc简中镜像](magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256) - SHA: 2CB21649590C8CF770CD93556596DFF4FD800F24D267A9BE9D9CE0EE9E03F5AC
+- [思源黑体](https://github.com/adobe-fonts/source-han-sans) - adobe和google共同开发, 中繁日韩拉丁
+- [得意黑](https://github.com/atelier-anchor/smiley-sans) - 中日拉丁
+- [思源宋体](https://github.com/adobe-fonts/source-han-serif) - 中繁日韩拉丁
+- [寒蝉宋体](https://github.com/Warren2060/ChillJinshuSong) - 基于思源宋体
+- [寒蝉正楷](https://github.com/Warren2060/Chillkai) - 中繁日韩拉丁
+- [寒蝉龙藏春秋](https://github.com/Warren2060/ChillCalligraphy) - 类似书法风格
+- [寒蝉全圆半圆](https://github.com/Warren2060/ChillRound) - 圆体字
+- [小米字体](https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854&app_version=dev.20051&ref=MIUI13) - 黑体风格
+- [谷歌NotoFonts](https://fonts.google.com/noto) - 谷歌字体项目
+
 ## Android
 
 ### Android App Store
