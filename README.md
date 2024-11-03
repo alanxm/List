@@ -202,11 +202,14 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Windows系统和Office
 
-**🔠所有开源免费可商用字体, 遵循OFL1.1开源协议**
+**Win11系统下载地址**
 
-- [Win11Ltsc简中镜像](magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256) - SHA: 2CB21649590C8CF770CD93556596DFF4FD800F24D267A9BE9D9CE0EE9E03F5AC
-- [思源黑体](https://github.com/adobe-fonts/source-han-sans) - adobe和google共同开发, 中繁日韩拉丁
-- [得意黑](https://github.com/atelier-anchor/smiley-sans) - 中日拉丁
+- [Ltsc简中镜像] - SHA: 2CB21649590C8CF770CD93556596DFF4FD800F24D267A9BE9D9CE0EE9E03F5AC
+  - 磁力链接: magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256
+  - 直接下载: https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso
+  - 官方英文版磁力: magnet:?xt=urn:btih:7352bd2db48c3381dffa783763dc75aa4a6f1cff&dn=en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso&xl=5144817664
+- [官方物联网英文版IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间
+- [官方KMS密钥](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) - 正版
 - [思源宋体](https://github.com/adobe-fonts/source-han-serif) - 中繁日韩拉丁
 - [寒蝉宋体](https://github.com/Warren2060/ChillJinshuSong) - 基于思源宋体
 - [寒蝉正楷](https://github.com/Warren2060/Chillkai) - 中繁日韩拉丁
