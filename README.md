@@ -209,7 +209,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - 直接下载: https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso
   - 官方英文版磁力: magnet:?xt=urn:btih:7352bd2db48c3381dffa783763dc75aa4a6f1cff&dn=en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso&xl=5144817664
 - [官方物联网英文版IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间
-- [Tiny11极致精简](https://archive.org/details/tiny11-2409)
+- [Tiny11极致精简](https://archive.org/details/tiny11-2409) - 推荐这个, 非常好用
 - [Win10 LTSC 英文US](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise) - 微软Win10 LTSC 官方下载地址
 - [官方KMS密钥](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) - 正版
 - 激活方法:
