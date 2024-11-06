@@ -211,10 +211,12 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [官方物联网英文版IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间
 - [官方KMS密钥](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) - 正版
 - 激活方法:
-	slmgr -ipk 密钥
-        slmgr -skms kms.03k.org 
-        slmgr -ato 
-        slmgr -dlv
+	```
+		slmgr -ipk 密钥
+	        slmgr -skms kms.03k.org 
+	        slmgr -ato 
+	        slmgr -dlv
+	```
 ## Android
 
 ### Android App Store
