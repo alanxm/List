@@ -220,6 +220,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 	        slmgr -dlv
 	```
  - 注意: win10 和 win11 的LTSC版本安装之后会出现每1小时关机的故障, 建议使用tiny11 版本
+ - [激活](https://www.freedidi.com/16719.html) - 这里参考零度解说的激活方法
 ## Android
 
 ### Android App Store
