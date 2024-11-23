@@ -223,7 +223,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 	        slmgr -ato 
 	        slmgr -dlv
 	```
- - 注意: win10 和 win11 的LTSC版本安装之后会出现每1小时关机的故障, 建议使用tiny11 版本
+ - 注意: 安装win10/win11的LTSC英语版本会出现每1小时关机的故障且无法激活, 换成简体中文版就正常了而且可以激活
  - [激活](https://www.freedidi.com/16719.html) - 这里参考零度解说的激活方法
 ## Android
 
