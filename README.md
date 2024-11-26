@@ -145,6 +145,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - [V2rayN](https://github.com/2dust/v2rayN/releases)
   - [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev)
   - [Windterm](https://github.com/kingToolbox/WindTerm)
+  - [MobaXterm](https://mobaxterm.mobatek.net)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
 - [OBS](https://github.com/obsproject/obs-studio)
 - [Obsidian](https://obsidian.md)
