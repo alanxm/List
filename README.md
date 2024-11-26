@@ -131,9 +131,8 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 - [aDrive](https://www.alipan.com/)
 - [Baidu](https://pan.baidu.com): 百度网盘
-- [123pan](https://www.123pan.com): 不限速, 有2T
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown): Bilibili第三方下载
-- [BypassPayWalls](https://github.com/iamadamdev/bypass-paywalls-chrome): 跳过新闻网站付费墙的chrome插件
+- [BypassPayWalls](https://github.com/bpc-clone/bypass-paywalls-chrome-clean): 跳过新闻网站付费墙的chrome插件
 - Diskinfo: 硬盘检测
   - [CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo): 带二次元流行的硬盘检测工具
   - [CrystalDiskMark](https://crystalmark.info): 带二次元流行的硬盘检测工具
@@ -145,7 +144,6 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - Net: 所有代理相关
   - [V2rayN](https://github.com/2dust/v2rayN/releases)
   - [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev)
-  - [Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
   - [Windterm](https://github.com/kingToolbox/WindTerm)
 - [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
 - [OBS](https://github.com/obsproject/obs-studio)
