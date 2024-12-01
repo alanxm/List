@@ -19,8 +19,9 @@ Anonymity, Privacy, and Security are often used interchangeably
 
 The primary focus of this list is to provide alternatives that prioritize privacy
 
-- [📱常用软件](#常用软件)
-- [🔠Fonts](#Fonts)
+- [📱常用软件](#常用软件)           
+- [🔠Fonts](#Fonts)  
+- [💼Win/Office](#Windows系统和Office)
 - [Android](#android)
 
   - [Android App Store](#android-app-store)
