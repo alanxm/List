@@ -129,16 +129,14 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 **📱常用PC软件**
 
-- [aDrive](https://www.alipan.com/)
-- [Baidu](https://pan.baidu.com): 百度网盘
+- 阿里云盘  //  百度网盘
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown): Bilibili第三方下载
-- [BypassPayWalls](https://github.com/bpc-clone/bypass-paywalls-chrome-clean): 跳过新闻网站付费墙的chrome插件
+- [BypassPayWalls](https://github.com/bpc-clone/bpc_chrome_support): 跳过新闻网站付费墙的chrome插件, [下载](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
 - Diskinfo: 硬盘检测
   - [CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo): 带二次元流行的硬盘检测工具
   - [CrystalDiskMark](https://crystalmark.info): 带二次元流行的硬盘检测工具
   - [HDTune](https://www.ghxi.com/hdtune.html): 老牌硬盘检测软件, 可检测机械硬盘
 - [Eudic](https://dict.eudic.net): 老牌词典, 手机电脑都好用
-- [IDM](https://github.com/WindowsAddict/IDM-Activation-Script): IDM官方版本的激活脚本
 - [剪映](https://www.capcut.cn): 语言转文本
 - [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用[六音音源](https://www.sixyin.com/8498.html),[梓澄音源,密码:lxmusic](https://wwp.lanzouq.com/b02fq9w8d): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
 - Net: 所有代理相关
