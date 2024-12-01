@@ -225,9 +225,10 @@ The primary focus of this list is to provide alternatives that prioritize privac
 		slmgr -ipk 密钥
 	        slmgr -skms kms.03k.org 
 	        slmgr -ato 
-	        slmgr -dlv
+	        slmgr -dlv   
 	```
  - 注意: 安装win10/win11的LTSC英语版本会出现每1小时关机的故障且无法激活, 换成简体中文版就正常了而且可以激活
+ - 2024年12月01日, 安装Win10 LTSC 21h2英文版成功激活, 安装之后, 第一时间更改system locale为中国(setting->Region->Additional date, time & Regional settings->Change date, time, or number formats->administrative->Change system locale), 要勾选 utf-8
  - [激活](https://www.freedidi.com/16719.html) - 这里参考零度解说的激活方法
 ## Android
 
