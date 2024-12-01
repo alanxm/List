@@ -195,7 +195,10 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [小米字体](https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854&app_version=dev.20051&ref=MIUI13) - 黑体风格
 - [谷歌NotoFonts](https://fonts.google.com/noto) - 谷歌字体项目
 
-## Windows系统和Office
+## Windows系统和Office         
+
+**Win/Office 开源项目**                       
+- [MAS项目](https://github.com/massgravel/Microsoft-Activation-Scripts) - github上Windows的开源项目, 包含所有 Windows 系统镜像的下载地址和激活方法, [传送门](https://massgrave.dev/genuine-installation-media)
 
 **Win11 系统**
 - [Win11 LTSC 官方镜像大全](https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise) - 微软官方下载地址
