@@ -198,8 +198,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 ## Windows系统和Office
 
 **Win11 系统**
-
-- [LTSC官方镜像](https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise) - 微软官方下载地址
+- [Win11 LTSC 官方镜像大全](https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise) - 微软官方下载地址
   - 简中磁力链接: magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256
   - 简中直接下载: https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso
   - 英文iot磁力: magnet:?xt=urn:btih:7352bd2db48c3381dffa783763dc75aa4a6f1cff&dn=en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso&xl=5144817664
@@ -207,7 +206,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Tiny11极致精简](https://archive.org/details/tiny11-2409) - 时光机收录
 
 **Win10 系统**
-- [Win10 LTSC 英文US](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise) - 微软Win10 LTSC 官方下载地址
+- [Win10 LTSC 官方镜像大全](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise) - 微软Win10 LTSC 官方下载地址
   - [Win10 LTSC 简中64位](https://software-download.microsoft.com/download/db/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_zh-cn.iso)
   - Win10 LTSC 简中64位BT:magnet:?xt=urn:btih:366ADAA52FB3639B17D73718DD5F9E3EE9477B40&dn=SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO&xl=5044211712
   - [Win10 LTSC 繁中64位](https://software-download.microsoft.com/download/db/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_zh-tw.iso)
