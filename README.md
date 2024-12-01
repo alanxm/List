@@ -199,6 +199,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 **Win/Office 开源项目**                       
 - [MAS项目](https://github.com/massgravel/Microsoft-Activation-Scripts) - github上Windows的开源项目, 包含所有 Windows 系统镜像的下载地址和激活方法, [传送门](https://massgrave.dev/genuine-installation-media)
+- [Office tool plus](https://github.com/YerongAI/Office-Tool) - Office开源项目下载和激活, 教程可以在B站搜索, [例如](https://www.bilibili.com/video/BV1f1421Q7Li/?vd_source=fc841ae46284f484686eebead19c077f)
 
 **Win11 系统**
 - [Win11 LTSC 官方镜像大全](https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise) - 微软官方下载地址
