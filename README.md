@@ -197,19 +197,23 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## Windows系统和Office
 
-**Win11 LTSC系统下载地址**
+**Win11 系统**
 
-- LTSC简中镜像 - SHA: 2CB21649590C8CF770CD93556596DFF4FD800F24D267A9BE9D9CE0EE9E03F5AC
-  - 磁力链接: magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256
-  - 直接下载: https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso
-  - 官方英文版磁力: magnet:?xt=urn:btih:7352bd2db48c3381dffa783763dc75aa4a6f1cff&dn=en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso&xl=5144817664
-- [官方物联网英文版IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间
-- [Tiny11极致精简](https://archive.org/details/tiny11-2409) - 推荐这个, 非常好用
-- [Win10 LTSC 英文US](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise) - 微软Win10 LTSC 官方下载地址
+- [LTSC官方镜像](https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise) - 微软官方下载地址
+  - 简中磁力链接: magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256
+  - 简中直接下载: https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso
+  - 英文iot磁力: magnet:?xt=urn:btih:7352bd2db48c3381dffa783763dc75aa4a6f1cff&dn=en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso&xl=5144817664
+- [英文IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间
+- [Tiny11极致精简](https://archive.org/details/tiny11-2409) - 时光机收录
+
+**Win10 系统**
+- [Win10 LTSC 英文US](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise) - 微软Win10 LTSC 官方下载地址
   - [Win10 LTSC 简中64位](https://software-download.microsoft.com/download/db/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_zh-cn.iso)
   - Win10 LTSC 简中64位BT:magnet:?xt=urn:btih:366ADAA52FB3639B17D73718DD5F9E3EE9477B40&dn=SW_DVD9_WIN_ENT_LTSC_2021_64BIT_ChnSimp_MLF_X22-84402.ISO&xl=5044211712
   - [Win10 LTSC 繁中64位](https://software-download.microsoft.com/download/db/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_zh-tw.iso)
   - [Win10 LTSC 美英64位](https://software-download.microsoft.com/download/db/444969d5-f34g-4e03-ac9d-1f9786c69161/19044.1288.211006-0501.21h2_release_svc_refresh_CLIENT_LTSC_EVAL_x64FRE_en-us.iso) - 挂代理全局下载速度很快, VPN节点必须是固定的, CF节点不行, 落地变动下载会中断
+
+**激活**
 - [官方KMS密钥](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) - 正版
 - 激活方法:
 	```
