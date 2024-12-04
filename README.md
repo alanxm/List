@@ -220,6 +220,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 **激活**
 - [官方KMS密钥](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys?tabs=server2025%2Cwindows1110ltsc%2Cversion1803%2Cwindows81) - 正版
+- [其他激活方法](https://kms.cx) - 一个可靠的第三方激活的地方  
 - 激活方法:
 	```
 		slmgr -ipk 密钥
@@ -227,10 +228,11 @@ The primary focus of this list is to provide alternatives that prioritize privac
 	        slmgr -ato 
 	        slmgr -dlv   
 	```
- - 注意: 安装win10/win11的LTSC英语版本会出现每1小时关机的故障且无法激活, 换成简体中文版就正常了而且可以激活
- - 2024年12月01日, 安装Win10 LTSC 21h2英文版成功激活, 安装之后, 第一时间更改system locale为中国(setting->Region->Additional date, time & Regional settings->Change date, time, or number formats->administrative->Change system locale), 要勾选 utf-8
- - 安装Win10 iot LTSC 21h2英文版, 激活使用 iot 版本的激活码无效, 但是使用 LTSC 的激活码有效
- - [激活](https://www.freedidi.com/16719.html) - 这里参考零度解说的激活方法
+ - 激活注意事项:  
+   - 安装win10/win11的LTSC英语版本会出现每1小时关机的故障且无法激活, 换成简体中文版就正常了而且可以激活
+   - 2024年12月01日, 安装Win10 LTSC 21h2英文版成功激活, 安装之后, 第一时间更改system locale为中国(setting->Region->Additional date, time & Regional settings->Change date, time, or number formats->administrative->Change system locale), 要勾选 utf-8
+   - 2024年12月02日, 安装Win10 iot LTSC 21h2英文版, 激活使用 iot 版本的激活码无效, 但是使用 LTSC 的激活码有效
+   - [激活](https://www.freedidi.com/16719.html) - 这里参考零度解说的激活方法
 ## Android
 
 ### Android App Store
