@@ -10,6 +10,9 @@
 	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/ABOUT.md"> About </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/Contributing.md"> Contributing </a> | 
 	<a href="https://github.com/pluja/awesome-privacy/blob/main/misc/QUOTES.md"> Quotes </a> | 
+
+
+
 	<a href="https://github.com/pluja/awesome-privacy/discussions"> Discussions </a>
 </p>
 
@@ -19,11 +22,10 @@ Anonymity, Privacy, and Security are often used interchangeably
 
 The primary focus of this list is to provide alternatives that prioritize privacy
 
-- [📱常用软件](#常用软件)           
-- [🔠Fonts](#Fonts)  
+- [📱PC常用软件](#PC/手机 常用软件)           
+- [🔠常用字体](#常用字体)  
 - [💼Win/Office](#Windows系统和Office)
 - [Android](#android)
-
   - [Android App Store](#android-app-store)
   - [Android Dialer](#android-dialer)
   - [Android File Manager](#android-file-manager)
@@ -124,9 +126,9 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
   - [Browser Addons](#browser-addons)
   - [Browser Sync](#browser-sync)
-  - [WebView](#webview)
+  - [WebView](#webview)   
 
-## 常用软件
+## PC/手机 常用软件
 
 **📱常用PC软件**
 
@@ -179,7 +181,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 谷歌商店平替, 可在上面F-Droid里下载
 - 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库, 词库让软件变卡], [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android), 微软输入法)
 
-## Fonts
+## 常用字体
 
 **🔠所有开源免费可商用字体, 遵循OFL1.1开源协议**
 
