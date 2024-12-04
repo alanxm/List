@@ -130,11 +130,11 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 ## PC手机常用软件
 
-**📱常用PC软件**
+**🖥常用PC软件**
 
 - 阿里云盘  //  百度网盘
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown): Bilibili第三方下载
-- [BypassPayWalls](https://github.com/bpc-clone/bpc_chrome_support): 跳过新闻网站付费墙的chrome插件, [下载](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
+- [BypassPayWalls](https://github.com/bpc-clone/bpc_chrome_support): 跳过新闻网站付费墙的chrome插件, [下载地址](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
 - Diskinfo: 硬盘检测
   - [CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo): 带二次元流行的硬盘检测工具
   - [CrystalDiskMark](https://crystalmark.info): 带二次元流行的硬盘检测工具
@@ -142,7 +142,7 @@ The primary focus of this list is to provide alternatives that prioritize privac
 - [Eudic](https://dict.eudic.net): 老牌词典, 手机电脑都好用
 - [剪映](https://www.capcut.cn): 语言转文本
 - [LuoXueMusic](https://github.com/lyswhut/lx-music-desktop): 第三方音乐客户端, 配合六音音源实用[六音音源](https://www.sixyin.com/8498.html),[梓澄音源,密码:lxmusic](https://wwp.lanzouq.com/b02fq9w8d): B站[教学视频](https://www.bilibili.com/video/BV1q2421L7ju/?vd_source=fc841ae46284f484686eebead19c077f)
-- Net: 所有代理相关
+- 代理软件:
   - [V2rayN](https://github.com/2dust/v2rayN/releases)
   - [ClashVerge](https://github.com/clash-verge-rev/clash-verge-rev)
   - [Windterm](https://github.com/kingToolbox/WindTerm)
@@ -175,11 +175,11 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - [ImageGlass](https://github.com/d2phap/ImageGlass "打开速度慢")
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): 图片视频画质增强
 
-**手机软件**
+**📱手机软件**
 
 - [F-Droid](https://f-droid.org): 免费开源的安卓下载地址
 - [Aurora Store](https://f-droid.org/en/packages/com.aurora.store): 谷歌商店平替, 可在上面F-Droid里下载
-- 必装手机软件: Net(ClashMeta, Singbox, V2rayNG, Termius), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库, 词库让软件变卡], [fcitx5-android](https://github.com/fcitx5-android/fcitx5-android), 微软输入法)
+- 必装手机软件: Net(ClashMeta, Singbox, V2rayNG), Browser(X, Chrome, Firefox, Edge), 信息(X, 贴吧, Infinity, Start, 要知, Tim, Telegram), Ai助手(Copilot, Chrome, Ernie Bot), 笔记(Notion, Markor, Legado), 购物(TB, PDD, 闲鱼), 账户(ICBC, ICBCAsia, FUTU, 腾讯自选股), 其他(欧陆词典, 支付宝, 微信, 高德, 联通, 阿里云, 贝壳找房, B站, 小云天气, Gboard[阿里云盘有词库, 词库让软件变卡])
 
 ## 常用字体
 
