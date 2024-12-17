@@ -24,7 +24,8 @@ The primary focus of this list is to provide alternatives that prioritize privac
 
 - [📱PC手机常用软件](#PC手机常用软件)           
 - [🔠常用字体](#常用字体)  
-- [💼Win/Office](#Windows系统和Office)
+- [💼Win/Office](#Windows系统和Office)   
+- [Chrome浏览器设置](#Chrome浏览器设置) 
 - [Android](#android)
   - [Android App Store](#android-app-store)
   - [Android Dialer](#android-dialer)
@@ -33,7 +34,6 @@ The primary focus of this list is to provide alternatives that prioritize privac
   - [Android Keyboard](#android-keyboard)
   - [Android Launcher](#android-launcher)
 - [Artificial Intelligence](#artificial-intelligence)
-
   - [ChatGPT](#chatgpt)
   - [Copilot](#copilot)
   - [ElevenLabs Text To Speech](#elevenlabs-text-to-speech)
@@ -235,6 +235,12 @@ The primary focus of this list is to provide alternatives that prioritize privac
    - 2024年12月01日, 安装Win10 LTSC 21h2英文版成功激活, 安装之后, 第一时间更改system locale为中国(setting->Region->Additional date, time & Regional settings->Change date, time, or number formats->administrative->Change system locale), 要勾选 utf-8
    - 2024年12月02日, 安装Win10 iot LTSC 21h2英文版, 激活使用 iot 版本的激活码无效, 但是使用 LTSC 的激活码有效
    - [激活](https://www.freedidi.com/16719.html) - 这里参考零度解说的激活方法
+
+## Chrome浏览器设置
+
+- [提升Chrome使用体验](https://naiyous.com/6680.html)        
+
+
 ## Android
 
 ### Android App Store
