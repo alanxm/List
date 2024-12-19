@@ -1,10 +1,7 @@
 ### ⚠️ [Important note](#privacy-vs-security-vs-anonimity)
 
-- [📱PC手机常用软件](#PC手机常用软件)           
-- [🔠常用字体](#常用字体)  
-- [💼Win/Office](#Windows系统和Office)   
-- [Chrome浏览器设置](#Chrome浏览器设置) 
-- [Android](#android)
+[📱PC手机常用软件](#PC手机常用软件) | [🔠常用字体](#常用字体) | [💼Win/Office](#Windows系统和Office) | [Chrome浏览器设置](#Chrome浏览器设置) 
+- [Android](#android)              
   - [Android App Store](#android-app-store)
   - [Android Dialer](#android-dialer)
   - [Android File Manager](#android-file-manager)
