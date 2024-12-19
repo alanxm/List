@@ -18,7 +18,7 @@
 ## PC手机常用软件
 
 **🖥常用PC软件**
-- [Chrome浏览器设置](#Chrome浏览器设置) 
+- [Chrome浏览器设置](https://naiyous.com/6680.html) 
 - 阿里云盘  //  百度网盘
 - [BilibiliDown](https://github.com/nICEnnnnnnnLee/BilibiliDown): Bilibili第三方下载
 - [BypassPayWalls](https://github.com/bpc-clone/bpc_chrome_support): 跳过新闻网站付费墙的chrome插件, [下载地址](https://gitflic.ru/project/magnolia1234/bypass-paywalls-chrome-clean)
@@ -123,9 +123,6 @@
    - 2024年12月02日, 安装Win10 iot LTSC 21h2英文版, 激活使用 iot 版本的激活码无效, 但是使用 LTSC 的激活码有效
    - [激活](https://www.freedidi.com/16719.html) - 这里参考零度解说的激活方法
 
-## Chrome浏览器设置
-
-- [提升Chrome使用体验](https://naiyous.com/6680.html)        
 
 
 ## Android
