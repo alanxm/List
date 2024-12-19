@@ -1,9 +1,5 @@
 ### ⚠️ [Important note](#privacy-vs-security-vs-anonimity)
 
-Anonymity, Privacy, and Security are often used interchangeably
-
-The primary focus of this list is to provide alternatives that prioritize privacy
-
 - [📱PC手机常用软件](#PC手机常用软件)           
 - [🔠常用字体](#常用字体)  
 - [💼Win/Office](#Windows系统和Office)   
