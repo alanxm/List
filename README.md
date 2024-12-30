@@ -81,6 +81,7 @@
 - [寒蝉龙藏春秋](https://github.com/Warren2060/ChillCalligraphy) - 类似书法风格
 - [寒蝉全圆半圆](https://github.com/Warren2060/ChillRound) - 圆体字
 - [小米字体](https://web.vip.miui.com/page/info/mio/mio/detail?postId=33935854&app_version=dev.20051&ref=MIUI13) - 黑体风格
+- [Maple Mono](https://github.com/subframe7536/maple-font) - 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [谷歌NotoFonts](https://fonts.google.com/noto) - 谷歌字体项目
 
 ## Windows系统和Office         
