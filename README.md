@@ -94,11 +94,12 @@
 - [.Net下载](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)                     
 
 **Win11 系统**
+- [Win11 IoT 24h2 安装说明](https://www.youtube.com/watch?v=ES0GqAJXYQE) - 安装跟着视频安装即可, [文字说明](https://www.freedidi.com/18143.html)
 - [Win11 LTSC 官方镜像大全](https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise) - 微软官方下载地址
   - 简中磁力链接: magnet:?xt=urn:btih:b84e74c1dbcc88a02c5b24a6f84383f353a2e1dd&dn=zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso&xl=5287520256
   - 简中直接下载: https://drive.massgrave.dev/zh-cn_windows_11_enterprise_ltsc_2024_x64_dvd_cff9cd2d.iso
   - 英文iot磁力: magnet:?xt=urn:btih:7352bd2db48c3381dffa783763dc75aa4a6f1cff&dn=en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso&xl=5144817664
-- [英文IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间
+- [英文IoT](https://www.microsoft.com/en-us/evalcenter/download-windows-11-iot-enterprise-ltsc-eval) - IoT长达10年的支持时间, 这是90天评估版, 90天到期后需要重新激活
 - [Tiny11极致精简](https://archive.org/details/tiny11-2409) - 时光机收录
 
 **Win10 系统**
